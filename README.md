@@ -58,5 +58,5 @@ YelpCamp is a full-stack web application where users can discover, review, and m
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Colt/YelpCamp.git
+   git clone https://github.com/swapnildatta/YelpCamp.git
    cd YelpCamp
